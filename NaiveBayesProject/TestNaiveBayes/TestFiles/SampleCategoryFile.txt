@@ -1,0 +1,12 @@
+﻿#CategoryTypes
+Beginner
+Medium
+Advanced
+#End
+#CategoryAttributes
+Expensive
+Cheap
+AllMountain
+Freestyle
+Freeride
+#End

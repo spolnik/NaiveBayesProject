@@ -1,0 +1,14 @@
+#CategoryTypes
+Survived
+NotSurvived
+#End
+#CategoryAttributes
+Crew
+FirstClass
+SecondClass
+ThirdClass
+Adult
+Child
+Male
+Female
+#End
